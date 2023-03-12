@@ -18,5 +18,9 @@ public class Main {
         System.out.println(John.name+" "+(John.addSalary()+John.addForWork()));
         System.out.println(Jack.name+" "+(Jack.addSalary()+Jack.addForWork()));
         System.out.println(Jim.name+" "+(Jim.addSalary()+Jim.addForWork()));
-    }
+
+    }       //John 5005.0
+            //Jack 465.0
+            //Jim 3005.0
+
 }
